@@ -1,4 +1,15 @@
-# QuoteFlow — AI-Native B2B Procurement Platform
+# QuoteFlow: AI-Native B2B Procurement Platform
+
+**Four AI agents help buyers write an RFQ, collect supplier quotes and pick the best supplier with a clear memo.**
+
+![](https://img.shields.io/badge/Google%20ADK-Agents-4285F4?logo=google&logoColor=white) ![](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Cloud%20Run-Live-34A853?logo=googlecloud&logoColor=white)
+
+### [▶ Try the live demo](https://quoteflow-buyer-727209058163.us-central1.run.app)
+
+> 👥 **Built as a team.** This repository is my copy of a project I built together with my teammates.
+
+---
+
 
 > An end-to-end RFQ (Request for Quotation) platform where four specialised AI agents guide buyers from sourcing need → supplier selection, while deterministic Python handles all scoring, compliance, and normalisation.
 
